@@ -1,6 +1,12 @@
 # powershell-note
 powershell命令与脚本笔记
 
+- [powershell-note](#powershell-note)
+  - [核心概念](#核心概念)
+  - [对象处理相关操作](#对象处理相关操作)
+  - [基础命令](#基础命令)
+  - [自动化脚本](#自动化脚本)
+
 ## 核心概念
 
 1. Cmdlet:最小命令单元  
